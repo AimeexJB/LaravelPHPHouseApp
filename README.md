@@ -23,4 +23,9 @@ Navigate to http://localhost/LaravelPHPHouseApp/houses/public/houses to get the 
 
 From there you will be able to view a list of properties with a Name, if they're for Sale or for Rent, a Description and a price. You can also Log in and Register a User, Create, Edit and Delete the properties.
 
+Any Future Development would include:
+1. Having an Admin user that would be able Add, Update and Delete the properties.
+2. The regular User would not be able to see these options on the screen.
+3. Add a Comments table that can be viewed when the user clicks into a house, The User would then be able to comment to show their interest in the property.
+
 This project was created using Laravel, a free open source PHP framework.
