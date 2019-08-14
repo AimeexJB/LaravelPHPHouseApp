@@ -33,4 +33,4 @@ This project was created using Laravel, a free open source PHP framework.
 ## Sample Images of the application
 
 Login screen
-![Login](/images/login.png)
+![login](/images/login.png)
