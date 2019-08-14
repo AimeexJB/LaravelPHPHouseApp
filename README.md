@@ -30,7 +30,4 @@ Any Future Development would include:
 
 This project was created using Laravel, a free open source PHP framework.
 
-## Sample Images of the application
-
-Login screen
-![login](/images/login.png)
+Images of the application can be viewed in the images folder.
