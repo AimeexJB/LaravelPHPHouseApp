@@ -29,3 +29,8 @@ Any Future Development would include:
 3. Add a Comments table that can be viewed when the user clicks into a house, The User would then be able to comment to show their interest in the property.
 
 This project was created using Laravel, a free open source PHP framework.
+
+## Sample Images of the application
+
+Login screen
+![Login](/images/login.png)
