@@ -11,6 +11,19 @@
 
         <!-- Styles -->
         <style>
+            .navbar {
+            	background-color: #34495e;
+            	color: white;
+            }
+
+            .navbar-default .navbar-brand {
+                color: #fff;
+            }
+
+            .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text {
+                color: #fff;
+            }
+            
             html, body {
                 background-color: #fff;
                 color: #636b6f;

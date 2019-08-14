@@ -28,14 +28,14 @@
 		<tr>
 			<td>Price</td>
 			<td>
-				{{ $house->price }}
+				{{ $house->price }}m
 			</td>
 		</tr>
 		</table>
 
 
 		<a href="{{ route('houses.index') }}" class="btn btn-link">Back</a>
-		
+
 
 </div>
 
